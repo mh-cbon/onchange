@@ -30,4 +30,6 @@ sleep 1;pkill onchange
 
 # install
 
+```sh
   go get github.com/mh-cbon/onchange
+```
